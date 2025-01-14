@@ -1,0 +1,21 @@
+figuras/
+│   __init__.py
+│
+├── bases/
+│   │   __init__.py
+│   │   punto.py
+│   │   linea.py
+│   │   figura.py
+│
+├── triangulos/
+│   │   __init__.py
+│   │   triangulo.py
+│   │   isosceles.py
+│   │   equilatero.py
+│   │   escaleno.py
+│   │   trirectangulo.py
+│
+└── otras/
+    │   __init__.py
+    │   rectangulo.py
+    │   cuadrado.py
